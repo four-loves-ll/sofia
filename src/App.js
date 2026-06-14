@@ -1,3 +1,4 @@
+TARGET_STREAM = "rtmp://192.168.1.150:1935/live"
 import React, { useState } from "react";
 
 const SimulationController = ({ onToggleOutage }) => {
