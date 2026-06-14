@@ -1,3 +1,23 @@
+Feature: Smart glasses integration with Sofia core for live streaming## Description
+Enable Chatwoot to support smart glasses with Sofia core integration for live streaming capabilities.
+
+## Use Case
+Allow users to stream live video and manage conversations using smart glasses devices integrated with Sofia core technology.
+
+## Proposed Functionality
+- Real-time video streaming from smart glasses devices
+- Sofia core integration for device management
+- Live chat interaction through wearable interface
+- Hands-free operation support
+
+## Requirements
+- Smart glasses device compatibility
+- Sofia core API integration
+- Real-time streaming protocol support
+- Device authentication and management
+
+## Additional Context
+This feature would enhance Chatwoot's capabilities for wearable device support and provide users with innovative ways to manage conversations through smart glasses.TARGET_STREAM = "rtmp://192.168.1.150:1935/live"
 {
   "name": "react",
   "version": "1.0.0",
